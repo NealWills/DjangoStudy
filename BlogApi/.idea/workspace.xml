@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3f939ab8-3ebe-40ec-9ce6-0d17e0e7bb24" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/BlogApi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlogApi/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlogApi/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlogApi/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlogApi/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlogApi/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stu/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stu/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stu/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stu/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stu/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stu/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stu/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stu/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stu/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/DjangoStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/DjangoStudy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudy/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudy/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudy/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudy/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudy/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudy/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stu/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stu/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stu/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stu/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stu/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stu/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stu/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stu/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/login.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1bXc0jSu4S5L7somQ6ljZ5cI38Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BlogApi" type="Python.DjangoServer" factoryName="Django server">
+      <module name="BlogApi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="BlogApi.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f939ab8-3ebe-40ec-9ce6-0d17e0e7bb24" name="Default Changelist" comment="" />
+      <created>1588781657274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588781657274</updated>
+      <workItem from="1588781665307" duration="2666000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="611" y="127" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588782919798">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="611" y="127" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1588782919798" />
+    <state width="815" height="286" key="GridCell.Tab.0.bottom" timestamp="1588784281098">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="815" height="286" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1588784281098" />
+    <state width="815" height="286" key="GridCell.Tab.0.center" timestamp="1588784281097">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="815" height="286" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1588784281097" />
+    <state width="815" height="286" key="GridCell.Tab.0.left" timestamp="1588784281096">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="815" height="286" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1588784281096" />
+    <state width="815" height="286" key="GridCell.Tab.0.right" timestamp="1588784281097">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="815" height="286" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1588784281097" />
+    <state width="815" height="286" key="GridCell.Tab.1.bottom" timestamp="1588784281033">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="815" height="286" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1588784281033" />
+    <state width="815" height="286" key="GridCell.Tab.1.center" timestamp="1588784281033">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="815" height="286" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1588784281033" />
+    <state width="815" height="286" key="GridCell.Tab.1.left" timestamp="1588784281032">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="815" height="286" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1588784281032" />
+    <state width="815" height="286" key="GridCell.Tab.1.right" timestamp="1588784281033">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="815" height="286" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1588784281033" />
+  </component>
+</project>
