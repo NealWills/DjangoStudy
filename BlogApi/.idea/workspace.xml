@@ -20,51 +20,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f939ab8-3ebe-40ec-9ce6-0d17e0e7bb24" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/BlogApi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlogApi/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlogApi/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlogApi/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlogApi/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlogApi/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stu/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stu/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stu/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stu/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stu/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stu/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stu/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stu/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stu/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/DjangoStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/DjangoStudy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DjangoStudy/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DjangoStudy/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DjangoStudy/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DjangoStudy/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DjangoStudy/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DjangoStudy/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stu/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stu/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stu/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stu/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stu/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stu/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stu/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stu/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../templates/login.html" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/movie/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movie/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movie/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movie/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movie/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movie/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movie/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movie/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movie/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/show.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/BlogApi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BlogApi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlogApi/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/BlogApi/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlogApi/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/BlogApi/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stu/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/stu/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stu/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/stu/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stu/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/stu/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -97,7 +81,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="BlogApi" type="Python.DjangoServer" factoryName="Django server">
@@ -108,7 +92,7 @@
         <env name="PYTHONUNBUFFERED" value="1" />
         <env name="DJANGO_SETTINGS_MODULE" value="BlogApi.settings" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -135,7 +119,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588781657274</updated>
-      <workItem from="1588781665307" duration="2666000" />
+      <workItem from="1588781665307" duration="2803000" />
+      <workItem from="1588864552507" duration="1680000" />
+      <workItem from="1588866239329" duration="2090000" />
+      <workItem from="1588952014150" duration="1189000" />
+      <workItem from="1588953245338" duration="4023000" />
     </task>
     <servers />
   </component>
@@ -152,46 +140,66 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="611" y="127" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588782919798">
+    <state x="685" y="67" key="#BlogApi" timestamp="1588865831897">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="611" y="127" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1588782919798" />
-    <state width="815" height="286" key="GridCell.Tab.0.bottom" timestamp="1588784281098">
+    <state x="685" y="67" key="#BlogApi/0.23.1440.877@0.23.1440.877" timestamp="1588865831897" />
+    <state x="369" y="127" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588866395367">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="815" height="286" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1588784281098" />
-    <state width="815" height="286" key="GridCell.Tab.0.center" timestamp="1588784281097">
+    <state x="369" y="127" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1588866395367" />
+    <state width="809" height="286" key="GridCell.Tab.0.bottom" timestamp="1588958103137">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="815" height="286" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1588784281097" />
-    <state width="815" height="286" key="GridCell.Tab.0.left" timestamp="1588784281096">
+    <state width="809" height="286" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1588958103137" />
+    <state width="809" height="286" key="GridCell.Tab.0.center" timestamp="1588958103136">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="815" height="286" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1588784281096" />
-    <state width="815" height="286" key="GridCell.Tab.0.right" timestamp="1588784281097">
+    <state width="809" height="286" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1588958103136" />
+    <state width="809" height="286" key="GridCell.Tab.0.left" timestamp="1588958103136">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="815" height="286" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1588784281097" />
-    <state width="815" height="286" key="GridCell.Tab.1.bottom" timestamp="1588784281033">
+    <state width="809" height="286" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1588958103136" />
+    <state width="809" height="286" key="GridCell.Tab.0.right" timestamp="1588958103136">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="815" height="286" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1588784281033" />
-    <state width="815" height="286" key="GridCell.Tab.1.center" timestamp="1588784281033">
+    <state width="809" height="286" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1588958103136" />
+    <state width="809" height="286" key="GridCell.Tab.1.bottom" timestamp="1588958103072">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="815" height="286" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1588784281033" />
-    <state width="815" height="286" key="GridCell.Tab.1.left" timestamp="1588784281032">
+    <state width="809" height="286" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1588958103072" />
+    <state width="809" height="286" key="GridCell.Tab.1.center" timestamp="1588958103072">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="815" height="286" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1588784281032" />
-    <state width="815" height="286" key="GridCell.Tab.1.right" timestamp="1588784281033">
+    <state width="809" height="286" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1588958103072" />
+    <state width="809" height="286" key="GridCell.Tab.1.left" timestamp="1588958103071">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="815" height="286" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1588784281033" />
+    <state width="809" height="286" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1588958103071" />
+    <state width="809" height="286" key="GridCell.Tab.1.right" timestamp="1588958103072">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="809" height="286" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1588958103072" />
+    <state x="443" y="23" key="SettingsEditor" timestamp="1588953200642">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="443" y="23" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1588953200642" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
